@@ -1,4 +1,4 @@
-module github.com/Paralysiee/reparsy
+module github.com/Paralysiee/wstribulle
 
 go 1.18
 
